@@ -52,6 +52,9 @@
   <a href="https://skillicons.dev">
 <!--     <img src="https://skillicons.dev/icons?i=php,laravel,java,nodejs,py,spring,flask,fastapi,express,nestjs" /> -->
     <img src="https://skillicons.dev/icons?i=nodejs" />
+    <img src="https://skillicons.dev/icons?i=express" />
+    <img src="https://skillicons.dev/icons?i=java" />
+    <img src="https://skillicons.dev/icons?i=spring" />
   </a>
 </p>
 
@@ -61,6 +64,7 @@
   <a href="https://skillicons.dev">
 <!--     <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql" /> -->
     <img src="https://skillicons.dev/icons?i=mysql" />
+    <img src="https://skillicons.dev/icons?i=mongodb" />
   </a>
 </p>
 
